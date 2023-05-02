@@ -1,3 +1,61 @@
-img#logo-homepage {
-   width: 90%;
+#nav-bar {
+   display: flex;
+   flex-direction: column;
+   padding: 10px;
+   margin-top: 20px;
+   
+}
+
+.nav-bar-link {
+   display: flex;
+   justify-content: center;
+   margin: 10px 60px;
+   padding: 5px;
+   border: 1px solid black;
+   border-radius: 10px;
+   box-shadow:6px 8px 8px 1px rgba(0,0,0,0.5);
+}
+
+#link-home {
+   background: radial-gradient(rgb(155, 1, 1), red);
+   /* background-color: rgb(223, 6, 6); */
+}
+
+
+#link-menu {
+   /* background: radial-gradient(rgb(237, 118, 0), orange); */
+   background: radial-gradient(rgb(155, 1, 1), red);
+}
+
+
+#link-bebidas {
+   background: radial-gradient(rgb(255, 170, 0), yellow);
+   /* background-color: rgb(255, 230, 0); */
+}
+
+
+#link-desayunos {
+   /* background-color: green; */
+   background: radial-gradient(rgb(13, 117, 2), rgb(1, 221, 1));
+}
+
+#link-siguenos {
+   /* background-color: rgb(0, 191, 255); */
+   background: radial-gradient(rgb(0, 21, 255), rgb(0, 191, 255));
+}
+
+
+#link-sugerencias {
+   background: radial-gradient(rgb(93, 0, 116), rgb(255, 0, 255));
+   /* background-color: rgb(196, 5, 196); */
+}
+
+
+.link-text{
+   color: white;
+   font-size: 22px;
+   /* font-family: 'Dosis', sans-serif; */
+   font-family: 'Spectral', serif;
+   font-weight: bold;
+
 }

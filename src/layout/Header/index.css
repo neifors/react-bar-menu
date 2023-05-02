@@ -1,0 +1,10 @@
+div#logo-homepage-wraper {
+   display: flex;
+   justify-content: center;
+   padding-top: 10%;
+   margin-bottom: 10%;
+}
+
+img#logo-homepage {
+   width: 70%;
+}

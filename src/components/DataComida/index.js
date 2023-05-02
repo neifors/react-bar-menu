@@ -155,7 +155,7 @@ const menu = [
   {
     id: 18,
     title: 'Revuelto de Gulas y Gambas',
-    category: 'Rematamos con',
+    category: 'Rematamos con...',
     price: 11.90,
     img: '',
     desc: ``,
@@ -163,7 +163,7 @@ const menu = [
   {
     id: 19,
     title: 'Atún a la Plancha',
-    category: 'Rematamos con',
+    category: 'Rematamos con...',
     price: 9.80,
     img: '',
     desc: ``,
@@ -171,7 +171,7 @@ const menu = [
   {
     id: 20,
     title: 'Solomillo Ibérico al Whisky',
-    category: 'Rematamos con',
+    category: 'Rematamos con...',
     price: '4.50/9.00',
     img: solomillo,
     desc: ``,
@@ -179,7 +179,7 @@ const menu = [
   {
     id: 21,
     title: 'Abanico Ibérico',
-    category: 'Rematamos con',
+    category: 'Rematamos con...',
     price: 9.80,
     img: '',
     desc: ``,

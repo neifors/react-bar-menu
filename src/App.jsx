@@ -11,8 +11,8 @@ const App = () => {
         <Route path="/" element={<Layout/>}>
           <Route index element={<Pages.Homepage/>}/>
           <Route path='menu' element={<Pages.Menu/>}/>
-          <Route path='bebida' element={<Pages.Bebida/>}/>
-          <Route path='brunch' element={<Pages.Brunch/>}/>
+          <Route path='bebidas' element={<Pages.Bebida/>}/>
+          <Route path='desayunos' element={<Pages.Brunch/>}/>
         </Route>
       </Routes>
     </>
