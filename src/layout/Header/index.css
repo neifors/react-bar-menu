@@ -7,4 +7,5 @@ div#logo-homepage-wraper {
 
 img#logo-homepage {
    width: 70%;
+   z-index: 2;
 }
