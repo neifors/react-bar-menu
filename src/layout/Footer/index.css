@@ -1,0 +1,9 @@
+div.footer{
+   text-align: center;
+   font-size: 14px;
+}
+
+div.footer p {
+   color: rgb(93, 88, 88);
+   margin: 2px;
+}
