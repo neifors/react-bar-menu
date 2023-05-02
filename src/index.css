@@ -243,3 +243,11 @@ Menu
     height: 150px;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: white;
+  }
+  
+  /* Aquí puedes agregar estilos adicionales para mantener los colores originales de tu aplicación */
+}
