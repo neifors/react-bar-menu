@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../img/LALINA.jpg'
+import logo from '../../img/LALINA2.png'
 import './index.css';
 
 
